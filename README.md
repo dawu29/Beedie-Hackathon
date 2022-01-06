@@ -1,6 +1,7 @@
 # Beedie-Hackathon
 
 Case Context
+
 Meta-Visit (MV)1 is a startup currently providing a virtual care technology platform to about 100 general physicians (GP) in B.C. Their platform allows GP’s to attend to their patients via video calls, audio calls, and text messaging in an integrative manner and in compliance with privacy standards like HIPPA, GDPR, and PIPEDA/PHIPA, while automating backend administration like appointment scheduling and medical record management.
 
 With the interests in digital health solutions among venture capitalists and investors at all time high due to the pandemic’s acceleration of digital health adoption, the VP of Growth at MV is tasked with developing a plan to build their own direct-to-consumer (D2C) brand, which directly provide virtual care services to the B.C. population.
